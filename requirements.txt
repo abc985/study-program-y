@@ -46,5 +46,5 @@ tzlocal==1.5.1            # via apscheduler
 urllib3==1.23             # via requests
 viberbot==1.0.11          # via programy
 websocket-client==0.53.0  # via slackclient
-werkzeug==0.14.1          # via flask
+werkzeug==0.15.3          # via flask
 wikipedia==1.4.0          # via programy
